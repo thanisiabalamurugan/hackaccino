@@ -5,7 +5,7 @@ Name: Thanisia Balamurugan
 Frappuccino 3D
 
 ## Live Website (optional)
-[Live Demo](https://thanisiabalamurugan.github.io/hackaccino/submissions/frapp-3d/frapp.html)
+[https://frapp-3d.tiiny.site/](https://frapp-3d.tiiny.site/)
 
 ## Code
 [GitHub Submission](https://github.com/thanisiabalamurugan/hackaccino/tree/main/submissions/frapp-3d)
